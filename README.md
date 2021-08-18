@@ -2,6 +2,8 @@
 
 > **McKinsey WomenHack Challenge held in April 2021.**
 
+> **Team:** ***Dataraptors***
+
 
 ## **Business Case**
 > **Nowadays more and more companies are focused on improving the working conditions of their employees as
